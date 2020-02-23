@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         CNKI-PDF下载
-// @namespace    http://*.gxlib.org/KCMS/detail/detail.aspx?*
-// @version      0.1
+// @namespace    cnki-pdf-download
+// @version      0.2
 // @description  显示 CNKI-PDF 下载按钮
 // @author       Ericwyn (github.com/Ericwyn)
-// @match        *.gxlib.org/KCMS/detail/*
+// @match        *.cnki.net/KCMS/detail*
 // @grant        none
 // ==/UserScript==
 
